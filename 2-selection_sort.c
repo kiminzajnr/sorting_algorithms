@@ -20,8 +20,11 @@ void selection_sort(int *array, size_t size)
 				min_idx = i;
 			}
 		}
-		swap(&array[min_idx], &array[step]);
-		print_array(array, size);
+		if (min_idx != step)
+		{
+			swap(&array[min_idx], &array[step]);
+			print_array(array, size);
+		}
 	}
 }
 
