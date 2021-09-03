@@ -118,6 +118,7 @@ Write in the file 0-O, the big O notations of the time complexity of the Bubble 
 - in the worst case
 
 ![buble sort demo](illustration_gifs/Bubble-sort.gif)  
+*<b>gif credits - wikipedia.org</b>*
 
 ---
 
@@ -135,6 +136,7 @@ Write in the file 1-O, the big O notations of the time complexity of the Inserti
 - in the worst case
 
 ![insertion sort demo](illustration_gifs/Insertion-sort.gif)  
+*<b>gif credits - wikipedia.org</b>*
 
 ---
 
@@ -150,8 +152,8 @@ Write in the file 2-O, the big O notations of the time complexity of the Selecti
 - in the average case
 - in the worst case
 
-![selection sort demo](illustration_gifs/Selection-Sort-Animation.gif)
-| <b>credits - wikipedia.org</b>|
+![selection sort demo](illustration_gifs/Selection-Sort-Animation.gif)  
+*<b>gif credits - wikipedia.org</b>*
 
 ---
 
@@ -169,4 +171,5 @@ Write in the file 3-O, the big O notations of the time complexity of the Quick s
 - in the average case
 - in the worst case
 
-![quick sort demo](illustration_gifs/Sorting_quicksort_anim.gif)
+![quick sort demo](illustration_gifs/Sorting_quicksort_anim.gif)  
+*<b>gif credits - wikipedia.org</b>*
